@@ -1,4 +1,4 @@
-# Atomchane PoC 
+# AtomChange Proof of Concept 
 
 Based on Quorum (see details below).
 
