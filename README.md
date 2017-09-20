@@ -1,3 +1,7 @@
+# Atomchane PoC 
+
+Based on Quorum (see details below).
+
 # Quorum
 
 Quorum is an Ethereum-based distributed ledger protocol with transaction/contract privacy and new consensus mechanisms.
